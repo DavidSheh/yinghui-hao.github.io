@@ -1,2 +1,2 @@
 # LadySnake Introducation Website
-[LadySnake](https://yinghui-hao.github.io/)
+[Link](https://yinghui-hao.github.io/)
