@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -599,6 +599,14 @@ body {
 }
 #fh5co-our-services .box .icon.colored-2 i {
   color: #00bff3 !important;
+}
+#fh5co-our-services .box .icon.colored-7 {
+  background: #000;
+  background: transparent;
+  border: 3px solid #000;
+}
+#fh5co-our-services .box .icon.colored-7 i {
+  color: #000 !important;
 }
 #fh5co-our-services .box .icon.colored-3 {
   background: #f26522;
@@ -1344,6 +1352,16 @@ body {
   animation-duration: .3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+}
+
+.colored1{
+  color: #2aaf67;
+}
+.colored4{
+  color: #e52b50;
+}
+.colored7{
+  color: #000;
 }
 
 /*# sourceMappingURL=style.css.map */
