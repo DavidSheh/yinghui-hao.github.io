@@ -259,7 +259,7 @@ body {
 .section-heading {
   float: left;
   width: 100%;
-  padding-bottom: 50px;
+  /*padding-bottom: 50px;*/
   margin-bottom: 50px;
   clear: both;
 }
@@ -429,7 +429,7 @@ body {
 }
 
 #fh5co-pricing .price-box {
-  border: 2px solid #ECEEF0;
+  /*border: 2px solid #ECEEF0;*/
   text-align: center;
   padding: 30px;
   -webkit-border-radius: 5px;
@@ -439,9 +439,9 @@ body {
   margin-bottom: 40px;
   position: relative;
 }
-#fh5co-pricing .price-box.popular {
+/*#fh5co-pricing .price-box.popular {
   border: 2px solid #4AE3B5;
-}
+}*/
 #fh5co-pricing .price-box.popular .popular-text {
   top: 0;
   left: 50%;
@@ -470,10 +470,10 @@ body {
 #fh5co-pricing .pricing-plan {
   margin: 0;
   padding: 0;
-  font-size: 15px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: 1px;
+  /*text-transform: uppercase;
+  font-weight: 700;*/
 }
 #fh5co-pricing .price {
   font-size: 50px;
@@ -891,7 +891,8 @@ body {
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
+  color: white;
+  background: #666666;
 }
 #footer .copyright {
   margin-bottom: 0px;
